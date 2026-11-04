@@ -69,4 +69,4 @@ Logistic Regression and SVM achieved the highest AUC score of 0.9562.
 
 ## 8. Streamlit Application
 
-Live application link: To be updated after deployment.
+Live application link: https://loan-default-prediction-ml2.streamlit.app
