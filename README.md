@@ -22,7 +22,9 @@ Target classes:
 
 ## 3. GitHub Repository Link
 
-To be updated after GitHub repository creation.
+## 3. GitHub Repository Link
+
+https://github.com/RohitBhurke/Loan-Default-Prediction-ML
 
 ## 4. Models and Evaluation Metrics
 
